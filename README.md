@@ -1,7 +1,4 @@
-### OCaml list functions
-
-Some tail recursive list functions i did as preperation for an exam.
-Contains:
+### Tail recursive OCaml list functions
 
 * reverse
 * length
